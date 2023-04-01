@@ -5,6 +5,6 @@
 2 - **launch Git Bash** ***everything needs to be done through Git Bash, otherwise obsidian-git plugin wont work well***
 
 ***Installing plugins***
-![[obsidian_installing_plugins.png]]
+![obsidian](/images/screenshots/apps/obsidian/obsidian_installing_plugins.png)
 ***enabling_obsidian_git***
-![[obsidian_installing_git.png]]
+![obsidian](/images/screenshots/apps/obsidian/obsidian_installing_git.png)
