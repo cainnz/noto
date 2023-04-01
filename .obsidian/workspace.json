@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f16f4ac681e22ff5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "how-to's/windows_all.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/dotfiles.md",
+                "file": "how-to's/windows_all.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/dotfiles.md",
+                "file": "how-to's/windows_all.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/dotfiles.md"
+                "file": "how-to's/windows_all.md"
               }
             }
           },
@@ -154,8 +167,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "58f7e761a3bccc20",
+  "active": "f16f4ac681e22ff5",
   "lastOpenFiles": [
+    "linux/dotfiles.md",
+    "how-to's/windows_all.md",
+    "how-to's",
     "images/screenshots/apps/obsidian/obsidian_installing_plugins.png",
     "images/screenshots/apps/obsidian/obsidian_installing_git.png",
     "images/screenshots/apps/obsidian",
@@ -169,7 +185,6 @@
     "images/apps/obsidian_installing_plugins.png",
     "images/apps",
     "images",
-    "linux/dotfiles.md",
     "linux"
   ]
 }
