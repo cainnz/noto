@@ -1,2 +1,3 @@
-## must have plugins 4/1/2023
+## Must have plugins 4/1/2023
 
+1. 
