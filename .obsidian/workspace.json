@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "how-to's/windows_all.md",
+                "file": "linux/dotfiles.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cd7e5383e9f8a141",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "global/apps/obsidian.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -77,6 +89,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "d645b6bee7c93c6d",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
         ]
       }
@@ -98,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "how-to's/windows_all.md",
+                "file": "global/apps/obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "how-to's/windows_all.md",
+                "file": "global/apps/obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "how-to's/windows_all.md"
+                "file": "global/apps/obsidian.md"
               }
             }
           },
@@ -167,24 +187,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f16f4ac681e22ff5",
+  "active": "cd7e5383e9f8a141",
   "lastOpenFiles": [
+    "obsidian.md",
+    "apps",
+    "linux/dotfiles.md",
+    "global/apps/obsidian.md",
+    "global/apps",
+    "global",
+    "how-to's/windows_all.md",
     "images/screenshots/apps/obsidian/obsidian_installing_plugins.png",
     "images/screenshoots/apps/obsidian/obsidian_installing_plugins.PNG.md",
-    "how-to's/windows_all.md",
     "images/screenshoots/apps/obsidian",
     "images/screenshoots/apps",
     "images/screenshoots",
-    "linux/dotfiles.md",
     "how-to's",
     "images/screenshots/apps/obsidian/obsidian_installing_git.png",
     "images/screenshots/apps/obsidian",
     "images/screenshots/apps",
     "images/screenshots",
-    "images/memorious",
     "images/gaming/nintendo/3ds_arm11error.jpg",
-    "images/gaming/nintendo",
-    "images/gaming",
     "images/apps/obsidian_installing_git.png",
     "images/apps/obsidian_installing_plugins.png"
   ]
