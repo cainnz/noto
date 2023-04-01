@@ -128,13 +128,21 @@
                 "file": "linux/dotfiles.md"
               }
             }
+          },
+          {
+            "id": "58f7e761a3bccc20",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
