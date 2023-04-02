@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "dotfiles",
+      "path": "linux/dotfiles.md"
+    },
+    {
       "basename": "obsidian",
       "path": "global/apps/obsidian.md"
     }

@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "global/apps/obsidian.md",
+                "file": "linux/dotfiles.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "global/apps/obsidian.md",
+                "file": "linux/dotfiles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "global/apps/obsidian.md",
+                "file": "linux/dotfiles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "global/apps/obsidian.md"
+                "file": "linux/dotfiles.md"
               }
             }
           },
@@ -189,10 +189,10 @@
   },
   "active": "cd7e5383e9f8a141",
   "lastOpenFiles": [
-    "obsidian.md",
-    "apps",
     "linux/dotfiles.md",
     "global/apps/obsidian.md",
+    "obsidian.md",
+    "apps",
     "global/apps",
     "global",
     "how-to's/windows_all.md",
