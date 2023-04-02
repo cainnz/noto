@@ -162,8 +162,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f16f4ac681e22ff5",
+  "active": "58f7e761a3bccc20",
   "lastOpenFiles": [
+    "global/cheat_sheets.md",
+    "cheat_sheets.md",
     "linux/dotfiles.md",
     "obsidian.md",
     "global/apps/obsidian.md",
