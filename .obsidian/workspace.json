@@ -30,20 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "cd7e5383e9f8a141",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/plugins/obsidian-style-settings/main.js",
-                "staged": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "linux/dotfiles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "linux/dotfiles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +145,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "linux/dotfiles.md"
+              }
             }
           },
           {
@@ -182,7 +175,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cd7e5383e9f8a141",
+  "active": "58f7e761a3bccc20",
   "lastOpenFiles": [
     "linux/dotfiles.md",
     "global/apps/obsidian.md",
