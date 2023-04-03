@@ -42,4 +42,5 @@ prompt typewritten
 git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 ```
 
-test
+## ~/.config set up & automatic script for new set ups
+

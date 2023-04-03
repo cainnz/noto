@@ -11,12 +11,8 @@
             "id": "f16f4ac681e22ff5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "global/apps/obsidian.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -77,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 382.5
+    "width": 200
   },
   "right": {
     "id": "b34259ce0f92cd96",
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "global/apps/obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "global/apps/obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "global/apps/obsidian.md"
-              }
+              "state": {}
             }
           },
           {
@@ -150,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 246.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,17 +154,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "58f7e761a3bccc20",
+  "active": "7d7be1fb673a7edc",
   "lastOpenFiles": [
+    "how-to's/windows_all.md",
+    "global/apps/obsidian.md",
+    "linux/dotfiles.md",
     "global/cheat_sheets.md",
     "cheat_sheets.md",
-    "linux/dotfiles.md",
     "obsidian.md",
-    "global/apps/obsidian.md",
     "apps",
     "global/apps",
     "global",
-    "how-to's/windows_all.md",
     "images/screenshots/apps/obsidian/obsidian_installing_plugins.png",
     "images/screenshoots/apps/obsidian/obsidian_installing_plugins.PNG.md",
     "images/screenshoots/apps/obsidian",
