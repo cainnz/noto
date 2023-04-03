@@ -8,14 +8,31 @@
         "type": "tabs",
         "children": [
           {
+            "id": "5f4f5b5b0a012bc2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "linux/dotfiles.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f16f4ac681e22ff5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "how-to's/windows_all.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,20 +77,12 @@
               "type": "starred",
               "state": {}
             }
-          },
-          {
-            "id": "d645b6bee7c93c6d",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 382.5
   },
   "right": {
     "id": "b34259ce0f92cd96",
@@ -89,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "how-to's/windows_all.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "how-to's/windows_all.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "how-to's/windows_all.md"
+              }
             }
           },
           {
@@ -142,7 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,27 +167,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7d7be1fb673a7edc",
+  "active": "f16f4ac681e22ff5",
   "lastOpenFiles": [
-    "how-to's/windows_all.md",
-    "global/apps/obsidian.md",
-    "linux/dotfiles.md",
+    "images/screenshots/apps/nvim/nvim_configtree_packer.png",
+    "images/screenshots/apps/nvim",
     "global/cheat_sheets.md",
-    "cheat_sheets.md",
     "obsidian.md",
-    "apps",
+    "global/apps/obsidian.md",
     "global/apps",
     "global",
+    "apps",
     "images/screenshots/apps/obsidian/obsidian_installing_plugins.png",
     "images/screenshoots/apps/obsidian/obsidian_installing_plugins.PNG.md",
+    "how-to's/windows_all.md",
     "images/screenshoots/apps/obsidian",
     "images/screenshoots/apps",
     "images/screenshoots",
+    "linux/dotfiles.md",
     "how-to's",
     "images/screenshots/apps/obsidian/obsidian_installing_git.png",
     "images/screenshots/apps/obsidian",
     "images/screenshots/apps",
-    "images/screenshots",
     "images/gaming/nintendo/3ds_arm11error.jpg",
     "images/apps/obsidian_installing_git.png",
     "images/apps/obsidian_installing_plugins.png"
