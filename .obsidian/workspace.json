@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "how-to's/windows_all.md",
+                "file": "linux/dotfiles.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "how-to's/windows_all.md",
+                "file": "linux/dotfiles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "how-to's/windows_all.md",
+                "file": "linux/dotfiles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "how-to's/windows_all.md"
+                "file": "linux/dotfiles.md"
               }
             }
           },
@@ -164,9 +164,9 @@
   },
   "active": "f16f4ac681e22ff5",
   "lastOpenFiles": [
-    "linux/dotfiles.md",
-    "how-to's/windows_all.md",
     "global/apps/obsidian.md",
+    "how-to's/windows_all.md",
+    "linux/dotfiles.md",
     "global/cheat_sheets.md",
     "images/screenshots/apps/nvim/nvim_configtree_packer.png",
     "images/screenshots/apps/nvim",
