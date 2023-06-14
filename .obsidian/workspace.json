@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "how-to's/windows_all.md",
-                "mode": "preview",
+                "file": "linux/essentials/dotfiles.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "99d6c4b5b2a65043",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "linux/essentials/alacritty.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -101,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "how-to's/windows_all.md",
+                "file": "linux/essentials/alacritty.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "how-to's/windows_all.md",
+                "file": "linux/essentials/alacritty.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "how-to's/windows_all.md"
+                "file": "linux/essentials/alacritty.md"
               }
             }
           },
@@ -170,19 +183,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7d7be1fb673a7edc",
+  "active": "99d6c4b5b2a65043",
   "lastOpenFiles": [
+    "linux/essentials/dotfiles.md",
+    "linux/essentials/alacritty.md",
+    "how-to's/windows_all.md",
+    "linux/dotfiles.md",
+    "global/apps/obsidian.md",
+    "global/cheat_sheets.md",
+    "README.md",
     "essentials",
     "Untitled",
     "linux/essentials",
     "images/screenshots/apps/obsidian/obsidian_installing_plugins.png",
     "images/screenshots/apps/obsidian/obsidian_installing_git.png",
     "images/screenshots/apps/nvim/nvim_configtree_packer.png",
-    "README.md",
-    "how-to's/windows_all.md",
-    "global/cheat_sheets.md",
-    "global/apps/obsidian.md",
-    "linux/essentials/dotfiles.md",
     "images/screenshots/apps/nvim",
     "obsidian.md",
     "global/apps",
@@ -192,7 +207,6 @@
     "images/screenshoots/apps/obsidian",
     "images/screenshoots/apps",
     "images/screenshoots",
-    "how-to's",
     "images/gaming/nintendo/3ds_arm11error.jpg",
     "images/apps/obsidian_installing_git.png",
     "images/apps/obsidian_installing_plugins.png"
