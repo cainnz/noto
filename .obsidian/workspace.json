@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/essentials/dotfiles.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "99d6c4b5b2a65043",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "linux/essentials/alacritty.md",
+                "file": "global/apps/obsidian.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/essentials/alacritty.md",
+                "file": "global/apps/obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/essentials/alacritty.md",
+                "file": "global/apps/obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/essentials/alacritty.md"
+                "file": "global/apps/obsidian.md"
               }
             }
           },
@@ -183,15 +170,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "99d6c4b5b2a65043",
+  "active": "f16f4ac681e22ff5",
   "lastOpenFiles": [
+    "README.md",
+    "global/cheat_sheets.md",
+    "global/apps/obsidian.md",
+    "how-to's/windows_all.md",
     "linux/essentials/dotfiles.md",
     "linux/essentials/alacritty.md",
-    "how-to's/windows_all.md",
     "linux/dotfiles.md",
-    "global/apps/obsidian.md",
-    "global/cheat_sheets.md",
-    "README.md",
     "essentials",
     "Untitled",
     "linux/essentials",
