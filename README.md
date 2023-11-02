@@ -1,3 +1,3 @@
-# noto
+# natto
 
-\-- obsidian notos & references
+-- public obsidian
