@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "global/apps/obsidian.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "global/apps/obsidian.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "global/apps/obsidian.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "global/apps/obsidian.md"
+                "file": "README.md"
               }
             }
           },
@@ -172,9 +172,9 @@
   },
   "active": "f16f4ac681e22ff5",
   "lastOpenFiles": [
+    "global/apps/obsidian.md",
     "README.md",
     "global/cheat_sheets.md",
-    "global/apps/obsidian.md",
     "how-to's/windows_all.md",
     "linux/essentials/dotfiles.md",
     "linux/essentials/alacritty.md",
